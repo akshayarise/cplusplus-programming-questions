@@ -20,7 +20,7 @@ public:
     }
 };
 
-void info(Vehicle &v1)
+void info(Vehicle v1)
 {
     v1.nameVehicle();
 }

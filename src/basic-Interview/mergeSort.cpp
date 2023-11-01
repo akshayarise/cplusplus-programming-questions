@@ -1,4 +1,17 @@
-// merge sort
+/*
+ * mergeSort.cpp
+ *
+ *  Author:
+ *  Akshay Kumar <akshayawakearise[at]gmail[dot]com>
+ *
+ * This program demonstrates how to sort the array using
+ * merge sort
+ *
+ * The program takes as input an array
+ *
+ *
+ */
+
 #include <iostream>
 #include <math.h>
 using namespace std;

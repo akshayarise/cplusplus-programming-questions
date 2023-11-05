@@ -4,9 +4,8 @@
 using namespace std;
 int main()
 {
-    int num = 3.45;
-    int val = floor(num);
-    cout << "val: " << val << endl;
-
+    int arr[] = {23, 35, 67};
+    cout << arr[3] << endl;
+    cout << arr[4] << endl;
     return 0;
 }

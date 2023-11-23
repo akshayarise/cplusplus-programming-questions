@@ -35,5 +35,6 @@ int main()
     arr.erase(arr.begin(), arr.begin() + 2);
     arr.insert(arr.begin(), 10);
     printArray(arr);
+    cout << *(arr.end() - 1) << endl;
     return 0;
 }

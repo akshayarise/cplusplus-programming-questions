@@ -1,9 +1,9 @@
 /*
  * largestNumber.cpp
  *
- *  Author:
- *  Akshay Kumar <akshayawakearise[at]gmail[dot]com>
- *
+ * Author:
+ * Akshay Kumar <akshayawakearise[at]gmail[dot]com>
+ * This problem was asked in  #Amazon #Zoho #MakeMyTrip #Paytm #interviews
  * Given a list of non-negative integers nums, arrange them such that they form the largest number and return it.
 
  * Since the result may be very large, so you need to return a string instead of an integer.

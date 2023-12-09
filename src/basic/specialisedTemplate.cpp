@@ -1,4 +1,4 @@
-// Specialised Template Example
+// Specialised class Template Example
 #include <iostream>
 using namespace std;
 

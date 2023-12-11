@@ -84,8 +84,10 @@ int main()
         cin >> num;
         l1.insertNode(num);
     }
+    cout << "SinglyLinkedList is \n";
     l1.print();
     l1.reverse();
+    cout << "SinglyLinkedList after the reverse function call \n";
     l1.print();
     return 0;
 }
